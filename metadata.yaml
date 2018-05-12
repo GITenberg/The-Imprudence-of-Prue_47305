@@ -1,4 +1,5 @@
 _repo: The-Imprudence-of-Prue_47305
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Pfeifer, Herman
@@ -6,12 +7,17 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '31534'
     url: http://www.gutenberg.org/2009/agents/31534
+covers:
+- cover_type: archival
+  image_path: 47305-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Fisher, Sophie
     gutenberg_agent_id: '44245'
     url: http://www.gutenberg.org/2009/agents/44245
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47305#The-Imprudence-of-Prue
 gutenberg_issued: '2014-11-06'
 gutenberg_type: Text
 identifiers:
